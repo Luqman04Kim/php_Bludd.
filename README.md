@@ -59,6 +59,16 @@ SmartCart offers a smooth user experience for customers to shop online. Here's h
 6. **View Order History**  
    Customers can view previous orders and cancel any pending orders.
 
+## 🛍️ How Admin Use SmartCart to Manage Products   
+
+Admin Functionalities:
+Product Management: Add, edit, or remove products from the store catalog.
+
+User Management: View registered users and delete inappropriate or inactive accounts.
+
+Order Management: Monitor all customer orders, update statuses (e.g., pending, shipped), or cancel orders.
+
+Payment Monitoring: Track payment transactions, confirm payment statuses, and issue refunds if needed.
 ---
 
 ## 🔗 Live Demo
